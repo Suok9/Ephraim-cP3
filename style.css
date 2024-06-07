@@ -1,0 +1,51 @@
+ body {
+                background-color: lightblue;
+  }
+    header {
+                text-decoration: underline;
+                font: 24px;
+                font-variant: small-caps;
+                margin: 0.5px;
+                padding: 2px;
+            }
+            h1 {
+                padding: 12px;
+                background-color: white;
+                border-radius: 10px;
+            }
+            ul {
+                margin: 3px;
+                padding: 18px;
+                background-color: white;
+                border-radius: 15px;
+                text-decoration: none;
+                
+            }
+            article {
+                margin: 15px;
+                padding: 20px;
+                background-color: white;
+                border-radius: 10px;
+            }
+            img {
+               padding: 15px;
+            }
+            #video {
+                margin: 5px;
+                padding: 15px;
+                background-color: white;
+                border-radius: 10px;
+            }
+            footer {
+                background-color: white;
+                font-family: serif;
+                font-variant: small-caps;
+                margin-top: 20px;
+                
+            }
+
+footer {
+                color: black;
+                text-align: center;
+                padding: 10px;
+            }
