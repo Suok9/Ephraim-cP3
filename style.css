@@ -22,9 +22,6 @@ body {
     text-align:center;
     font-size: 20px;
     color: red;
-    animation-name: colorchange;
-    animation-duration: 15s ;
-    animation-iteration-count:infinite ;
 }
 @keyframes colorchange {
     0% {color: pink; }
